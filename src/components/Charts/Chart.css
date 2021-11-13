@@ -1,0 +1,24 @@
+#container {
+    width: 100%;
+    height: 1000px;
+}
+
+#chartDiv {
+    width: 100%;
+    height: 1000px;
+}
+
+#radarDiv {
+    width: 100%;
+    height: 800px;
+}
+
+#sunburstDiv {
+    width: 20%;
+    height: 100px;
+}
+
+#piediv {
+    width: 30%;
+    height: 200px;
+}
